@@ -33,3 +33,4 @@ student from Xauat
 ![image](https://github.com/dbwaax/optimum-control-homework/blob/main/images/30.jpg)  
 ![image](https://github.com/dbwaax/optimum-control-homework/blob/main/images/31.jpg)  
 ![image](https://github.com/dbwaax/optimum-control-homework/blob/main/images/32.jpg)  
+![image](https://github.com/dbwaax/optimum-control-homework/blob/main/images/33.jpg)  
